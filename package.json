@@ -1,0 +1,14 @@
+{
+  "name": "jade-angular-sms-101",
+  "version": "1.0.0",
+  "description": "A simple Node SMS implementation using jade with angular form templating",
+  "private": "true",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "jade": "~1.7.0",
+    "stylus": "~0.49.2",
+    "nib": "~1.0.4",
+    "morgan": "~1.4.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "jade-angular-sms-101",
+    "version": "1.0.0",
+    "description": "A simple Node SMS implementation using jade with angular form templating",
+    "dependencies": {
+        "angular":"latest",
+        "bootstrap":"latest"
+    }
+}
